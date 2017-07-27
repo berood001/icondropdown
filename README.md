@@ -22,3 +22,4 @@ Example:
   iconWidth - how wide you want the image to be
   linkArray - an 2D array that stores the name of the link and URL
   arrowOffSet - allows you to move the dropdown to align better with your image
+  
